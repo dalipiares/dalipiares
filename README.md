@@ -1,16 +1,27 @@
-## Hi there 👋
+# Ares Dalipi
 
-<!--
-**dalipiares/dalipiares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Student @ IMS Basel
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Building software, exploring ideas, and learning by doing.
+
+## 🛠️ Tech Stack
+
+- Java ☕
+- C++ ⚙️
+- Python 🐍
+- HTML, CSS, JavaScript 🌐
+
+## 🚀 Projects & Growth
+
+Currently developing my skills, one project at a time.
+
+## 🌍 Online Presence
+
+- [e-Portfolio](https://aresdalipi.weebly.com/) 📁  
+- [LinkedIn](https://www.linkedin.com/in/ares-dalipi-9baa53324/) 💼
+
+---
+
+Curious about how code shapes the world—and how I can be part of that journey. ✨
